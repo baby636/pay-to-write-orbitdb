@@ -49,7 +49,7 @@
     "husky": "^4.3.6",
     "ipfs": "^0.54.4",
     "lodash.clonedeep": "^4.5.0",
-    "mocha": "^8.2.1",
+    "mocha": "^9.1.2",
     "nyc": "^15.1.0",
     "semantic-release": "^17.4.2",
     "sinon": "^9.2.2",
