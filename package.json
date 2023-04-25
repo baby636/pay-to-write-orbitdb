@@ -65,10 +65,10 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-standard": "^4.0.0",
-    "husky": "^4.3.8",
+    "husky": "^5.0.0",
     "mocha": "^8.2.1",
     "nyc": "^15.1.0",
-    "semantic-release": "^17.4.2",
+    "semantic-release": "^20.0.1",
     "sinon": "^9.2.4",
     "standard": "^16.0.3"
   },
