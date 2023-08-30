@@ -48,7 +48,7 @@
     "koa-router": "^10.0.0",
     "koa-static": "^5.0.0",
     "line-reader": "^0.4.0",
-    "mongoose": "^5.11.15",
+    "mongoose": "^5.13.3",
     "nodemailer": "^6.4.17",
     "orbit-db": "^0.26.1",
     "passport-local": "^1.0.0",
