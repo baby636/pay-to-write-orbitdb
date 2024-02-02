@@ -49,7 +49,7 @@
     "koa-static": "^5.0.0",
     "line-reader": "^0.4.0",
     "mongoose": "^5.11.15",
-    "nodemailer": "^6.4.17",
+    "nodemailer": "^6.9.9",
     "orbit-db": "^0.26.1",
     "passport-local": "^1.0.0",
     "winston": "^3.3.3",
