@@ -33,7 +33,7 @@
   },
   "repository": "Permissionless-Software-Foundation/pay-to-write-orbitdb",
   "dependencies": {
-    "@psf/bch-js": "^4.17.0",
+    "@psf/bch-js": "^6.8.2",
     "orbit-db": "^0.26.1"
   },
   "devDependencies": {
