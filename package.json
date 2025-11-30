@@ -35,7 +35,7 @@
     "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "glob": "^7.1.6",
-    "ipfs": "^0.54.4",
+    "ipfs": "^0.66.1",
     "jsonwebtoken": "^8.5.1",
     "kcors": "^2.2.2",
     "koa": "^2.13.1",
@@ -50,7 +50,7 @@
     "line-reader": "^0.4.0",
     "mongoose": "^5.11.15",
     "nodemailer": "^6.4.17",
-    "orbit-db": "^0.26.1",
+    "orbit-db": "^0.29.0",
     "passport-local": "^1.0.0",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^4.5.0"
